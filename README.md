@@ -20,3 +20,6 @@ To create a secure, transparent, and user-driven decentralized vault protocol th
 - DAO-based governance for protocol upgrades.  
 - Layer-2 compatibility and gas-optimized implementations.  
 - Web3 frontend dashboard for user interaction.
+
+contract address: 0x706A093bBb7E1fA622cf5167Fa1774e3e605eb1F
+<img width="1910" height="954" alt="image" src="https://github.com/user-attachments/assets/9607cb35-cde8-45d7-9946-481ef57911a4" />
